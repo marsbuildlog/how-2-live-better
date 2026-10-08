@@ -1,5 +1,9 @@
 # 高性价比人生指南 · How To Live Better — 开源镜像与衍生站点
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](./LICENSE) [![Content: CC BY 4.0](https://img.shields.io/badge/content-CC_BY_4.0-blue)](https://github.com/eternity4719/HowToLiveBetter) [![Built with Astro](https://img.shields.io/badge/built%20with-Astro%205-BC52EE)](https://astro.build)
+
+> 🌐 **在线体验（免安装、手机可用）**：[**how2livebetter.net**](https://how2livebetter.net) — 630 条高性价比建议 · 处境体检 · 打卡与间隔复习
+
 ## 原始项目
 
 本仓库的源头是 [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)（《高性价比人生指南》，内容遵循 CC BY 4.0）：
@@ -85,3 +89,7 @@ python3 -m http.server 8000 --directory dist
 
 - **代码部分**（`server.mjs`、`package.json` 等脚手架）：[MIT License](./LICENSE)
 - **站点内容**（`dist/` 内的文章、题库、数据）：源自 [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)，遵循 **CC BY 4.0**，使用时请署名原作者并注明非官方衍生作品
+
+---
+
+如果这套东西对你有帮助，欢迎 **⭐ Star** 支持一下，并到 [**how2livebetter.net**](https://how2livebetter.net) 开始实践你的第一条建议。
