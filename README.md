@@ -14,7 +14,7 @@ npm start          # 即 node server.mjs
 PORT=8080 npm start
 ```
 
-然后访问 <http://localhost:4321/>。
+然后访问 <http://localhost:4780/>。
 
 也可以用任何静态服务器指向 `dist/`，例如：
 
