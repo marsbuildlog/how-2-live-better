@@ -1,0 +1,13 @@
+{
+  "name": "how-2-live-better",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "《高性价比人生指南》衍生工具 — 静态站点 (dist 产物快照)",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
