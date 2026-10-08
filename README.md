@@ -21,11 +21,11 @@
 
 **静态站点（Astro 构建，688 页全静态）**
 
-- 📖 **章节浏览** — 34 章按原书结构呈现，纸感出版风设计
-- 🩺 **处境体检**（`/tools/assess/`）— 问卷 + 匹配引擎 + 打分公式，根据你的处境（预算/时间/毅力）推荐最值得先做的建议
-- 🎯 **阶段策展**（`/stages/`）— 按人生阶段（如高中、大学、职场）精选与排序
-- ⏰ **场景清单**（`/moments/`）— 8 个关键时刻（如月末、搬家、换季）的行动顺序清单
-- 📝 **打卡与复习** — 本地存储的每日打卡（连续天数）与间隔重复（SRS）复习、条目标记收藏
+- 📖 **章节浏览** — [34 章按原书结构呈现](https://how2livebetter.net/chapters/)，纸感出版风设计
+- 🩺 **处境体检**（[/tools/assess/](https://how2livebetter.net/tools/assess/)）— 问卷 + 匹配引擎 + 打分公式，根据你的处境（预算/时间/毅力）推荐最值得先做的建议
+- 🎯 **阶段策展**（[/stages/](https://how2livebetter.net/stages/)）— 按人生阶段（如高中、大学、职场）精选与排序
+- ⏰ **场景清单**（[/moments/](https://how2livebetter.net/moments/)）— 8 个关键时刻（如月末、搬家、换季）的行动顺序清单
+- 📝 **打卡与复习**（[/tools/checkin/](https://how2livebetter.net/tools/checkin/)）— 本地存储的每日打卡（连续天数）与间隔重复（SRS）复习；条目标记收藏见 [/tools/saved/](https://how2livebetter.net/tools/saved/)
 - 🔍 **SEO 基建** — sitemap、JSON-LD 结构化数据、OG 图、`llms.txt`（对 AI 搜索引擎友好）
 
 **衍生产品**
