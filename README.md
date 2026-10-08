@@ -37,4 +37,5 @@ python3 -m http.server 8000 --directory dist
 
 ## License
 
-站点内容（文章、题库、数据）版权归原项目所有；代码部分按仓库 LICENSE 处理。
+- **代码部分**（`server.mjs`、`package.json` 等脚手架）：[MIT License](./LICENSE)
+- **站点内容**（`dist/` 内的文章、题库、数据等）：版权归原项目所有，不随 MIT 协议开放商用
