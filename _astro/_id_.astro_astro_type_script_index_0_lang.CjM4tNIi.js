@@ -1,0 +1,1 @@
+import{m as t}from"./review-slip.CqDzR0Wc.js";import"./marks-core.eLEXBvcy.js";import"./srs-storage.CIu3V8OW.js";import"./srs-core.k71dYATi.js";t(document,JSON.parse(document.getElementById("moment-rv-catalog").textContent));

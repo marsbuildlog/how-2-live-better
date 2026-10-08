@@ -1,0 +1,1 @@
+import{m as t}from"./marks.BqNfehYJ.js";import"./marks-core.eLEXBvcy.js";import"./srs-storage.CIu3V8OW.js";import"./srs-core.k71dYATi.js";t(document.getElementById("item-actions"),JSON.parse(document.getElementById("item-actions-payload").textContent));

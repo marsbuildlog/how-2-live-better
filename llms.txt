@@ -1,0 +1,66 @@
+# 高性价比人生指南 · 阶段版
+
+> 把开源电子书《HowToLiveBetter》的 654 条循证生活建议按 5 个人生阶段(高中生/大学生/刚工作/中年/退休前后)重组, 每条建议标注成本、时间、毅力门槛、收益与证据等级(A/B/C), 全站引用 1566 篇期刊论文与官方文件。原书 CC BY 4.0 许可。本站另提供"处境体检"(16 题问卷筛出与处境相关的条目, 全部本地计算)与"打卡与待办"(每日/每周习惯打卡 + 待办清单, 数据只存本地)两个工具。
+
+知识永远免费 — 每条建议的完整内容在本站和 Markdown 层均可直接读取; 站点收费部分只有未来的提醒服务。
+
+## 五个人生阶段手册 (策展排序)
+- [高中生 14–18 岁](https://how2livebetter.net/stages/high-school/): 先避开那几件「一踩就毁」的事, 再谈前程
+- [大学生 18–22 岁](https://how2livebetter.net/stages/college/): 人生路刚铺开: 深造、恋爱、兼职, 每一步都有性价比算法定
+- [刚工作 22–30 岁](https://how2livebetter.net/stages/early-career/): 第一次有人按月给你打钱, 也第一次有人想从你身上拿走更多
+- [中年 30–50 岁](https://how2livebetter.net/stages/midlife/): 上有老下有小, 你的每一条建议都牵着四个人
+- [退休前后 50 岁以上](https://how2livebetter.net/stages/senior/): 钱要守住, 病要盯住, 身后事可以提前安排
+
+## 场景指南 (突发时刻按顺序行动)
+- [被裁了怎么办](https://how2livebetter.net/moments/laid-off/): 先别签任何字, 从存证据和算清你该拿的钱开始
+- [被欠薪加班没给钱怎么办](https://how2livebetter.net/moments/labor-rights/): 劳动维权不收费, 但有 1 年时效——先存证据再开口
+- [租房签约与退租怎么办](https://how2livebetter.net/moments/renting/): 押金纠纷的胜负, 在签字那一刻就决定了
+- [准备结婚怎么办](https://how2livebetter.net/moments/marriage/): 感情用感情算, 钱用法律算——两本账都要清楚
+- [要生孩子怎么办](https://how2livebetter.net/moments/having-a-baby/): 从叶酸到户口: 时间窗口一条接一条, 错过要等很久
+- [确诊慢性病怎么办](https://how2livebetter.net/moments/chronic/): 确诊后的第一个月, 把该办的认定和绑定都办掉
+- [家人走了怎么办](https://how2livebetter.net/moments/bereavement/): 最难的日子里有一串必须办的事——按这张顺序表来
+- [被骗了怎么办](https://how2livebetter.net/moments/scammed/): 先止付, 再报警, 别先自己「查一查」
+
+## 全部章节全文 (Markdown, 可整站读取)
+- [01 不要早死](https://how2livebetter.net/llms/ch/01.md): 41 条建议
+- [02 不要慢慢死](https://how2livebetter.net/llms/ch/02.md): 42 条建议
+- [03 不要浪费精力](https://how2livebetter.net/llms/ch/03.md): 24 条建议
+- [04 不要浪费时间](https://how2livebetter.net/llms/ch/04.md): 18 条建议
+- [05 不要浪费钱](https://how2livebetter.net/llms/ch/05.md): 44 条建议
+- [06 反面清单](https://how2livebetter.net/llms/ch/06.md): 28 条建议
+- [07 没钱的时候怎么活](https://how2livebetter.net/llms/ch/07.md): 22 条建议
+- [08 别把自己搭进去：法律与财产安全](https://how2livebetter.net/llms/ch/08.md): 45 条建议
+- [09 普通人容易踩的法律红线](https://how2livebetter.net/llms/ch/09.md): 25 条建议
+- [10 恋爱和结婚划不划算](https://how2livebetter.net/llms/ch/10.md): 20 条建议
+- [11 程序员和技术人容易踩的红线](https://how2livebetter.net/llms/ch/11.md): 17 条建议
+- [12 创业与做生意：别把家底赔进去](https://how2livebetter.net/llms/ch/12.md): 24 条建议
+- [13 紧急情况：先做什么](https://how2livebetter.net/llms/ch/13.md): 44 条建议
+- [14 账号与信息安全](https://how2livebetter.net/llms/ch/14.md): 9 条建议
+- [15 租房与买房](https://how2livebetter.net/llms/ch/15.md): 9 条建议
+- [16 得了慢性病之后怎么活](https://how2livebetter.net/llms/ch/16.md): 9 条建议
+- [17 家里有老人](https://how2livebetter.net/llms/ch/17.md): 9 条建议
+- [18 养孩子划不划算](https://how2livebetter.net/llms/ch/18.md): 6 条建议
+- [19 在职、离职和工伤](https://how2livebetter.net/llms/ch/19.md): 18 条建议
+- [20 刚出生的孩子怎么带](https://how2livebetter.net/llms/ch/20.md): 13 条建议
+- [21 出国、旅行与境外安全](https://how2livebetter.net/llms/ch/21.md): 11 条建议
+- [22 怎么放松：娱乐场所和减压](https://how2livebetter.net/llms/ch/22.md): 10 条建议
+- [23 学什么技能划算](https://how2livebetter.net/llms/ch/23.md): 23 条建议
+- [24 看病：怎么少花钱少走弯路](https://how2livebetter.net/llms/ch/24.md): 11 条建议
+- [25 人走了以后要办什么](https://how2livebetter.net/llms/ch/25.md): 10 条建议
+- [26 做一个网站或平台：资质、备案和服务器](https://how2livebetter.net/llms/ch/26.md): 11 条建议
+- [27 怀孕和生产：从发现怀孕到出院办证](https://how2livebetter.net/llms/ch/27.md): 16 条建议
+- [28 别为了外形把身体搞坏](https://how2livebetter.net/llms/ch/28.md): 8 条建议
+- [29 遭遇重大打击之后](https://how2livebetter.net/llms/ch/29.md): 13 条建议
+- [30 上学以后的孩子](https://how2livebetter.net/llms/ch/30.md): 17 条建议
+- [31 十八岁之后有哪几条路](https://how2livebetter.net/llms/ch/31.md): 16 条建议
+- [32 出国留学：身份、打工、保险和回国认证](https://how2livebetter.net/llms/ch/32.md): 10 条建议
+- [33 残疾之后怎么活](https://how2livebetter.net/llms/ch/33.md): 20 条建议
+- [34 家里的常备药别吃出事](https://how2livebetter.net/llms/ch/34.md): 11 条建议
+
+## 站点与方法
+- [方法与证据口径](https://how2livebetter.net/llms/about.md): 证据分级定义、策展方法、更新机制
+- [PDF / EPUB / 离线 HTML 下载](https://how2livebetter.net/downloads/): 原书官方 Release 固定链接入口
+- [数据来源与更新](https://how2livebetter.net/about/data/)
+- [隐私政策](https://how2livebetter.net/privacy/)
+
+引用建议: 内容 CC BY 4.0, 注明出处 "HowToLiveBetter (github.com/eternity4719) · 高性价比人生指南 how2livebetter.net（阶段版）" 即可。

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://how2livebetter.net/sitemap.xml

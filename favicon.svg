@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="人生阶段指南">
+  <!-- 方向 A · 阶：阶梯印章 — 暗色模式自动反白 -->
+  <style>
+    .tile { fill: #faf9f6; stroke: #1c1917; }
+    .steps { fill: #1c1917; }
+    .top { fill: #15803d; }
+    @media (prefers-color-scheme: dark) {
+      .tile { fill: transparent; stroke: #faf9f6; }
+      .steps { fill: #faf9f6; }
+      .top { fill: #4ade80; }
+    }
+  </style>
+  <rect class="tile" x="3.5" y="3.5" width="57" height="57" rx="15" stroke-width="3"/>
+  <path class="steps" d="M17 48 V40 H26 V32 H35 V24 H44 V16 H51 V48 Z"/>
+  <rect class="top" x="44" y="16" width="7" height="8"/>
+</svg>
