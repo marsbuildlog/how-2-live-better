@@ -1,4 +1,4 @@
-# How To Live Better — 开源镜像与衍生站点
+# 高性价比人生指南 · How To Live Better — 开源镜像与衍生站点
 
 ## 原始项目
 
